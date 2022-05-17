@@ -1,2 +1,2 @@
-# Logistics_iterms_zn_ch
+# Logistics_extractive_summ
 基于物流专利数据集实现的自动摘要抽取系统。包括模型训练结果（huggingface/transformer结构）与物流术语词典
